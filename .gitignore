@@ -224,3 +224,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+/入门/c3/summary/
+/入门/c4/summary/
