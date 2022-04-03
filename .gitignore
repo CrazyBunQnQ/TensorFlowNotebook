@@ -227,3 +227,9 @@ cython_debug/
 /入门/c3/summary/
 /入门/c4/summary/
 *.pdf
+*.h5
+*.pb
+/官方教程/1.初级-Keras 机器学习基础知识/checkpoints/
+/官方教程/1.初级-Keras 机器学习基础知识/saved_model/
+/官方教程/1.初级-Keras 机器学习基础知识/training_1/
+/官方教程/1.初级-Keras 机器学习基础知识/training_2/
