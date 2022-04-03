@@ -229,7 +229,13 @@ cython_debug/
 *.pdf
 *.h5
 *.pb
+*.index
 /官方教程/1.初级-Keras 机器学习基础知识/checkpoints/
 /官方教程/1.初级-Keras 机器学习基础知识/saved_model/
 /官方教程/1.初级-Keras 机器学习基础知识/training_1/
 /官方教程/1.初级-Keras 机器学习基础知识/training_2/
+/官方教程/0.TensorFlow 基础知识/checkpoint
+/官方教程/0.TensorFlow 基础知识/weights.data-00000-of-00001
+/官方教程/0.TensorFlow 基础知识/tb/
+/官方教程/0.TensorFlow 基础知识/path/
+/官方教程/0.TensorFlow 基础知识/ckpt/
