@@ -240,3 +240,4 @@ cython_debug/
 /官方教程/0.TensorFlow 基础知识/path/
 /官方教程/0.TensorFlow 基础知识/ckpt/
 /笔记本/train_dataset
+/nlp-notebook/
